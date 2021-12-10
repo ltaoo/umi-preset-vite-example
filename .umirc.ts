@@ -1,3 +1,4 @@
+import path from 'path';
 import { defineConfig } from 'umi';
 // @ts-ignore
 import DayjsPlugin from 'umi-preset-vite/lib/vitePlugins/dayjs';

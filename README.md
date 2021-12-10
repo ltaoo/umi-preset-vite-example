@@ -2,7 +2,14 @@
 
 ## Usage
 
+### Install dependencies
+
 ```bash
-yarn && yarn umi vite:dev
+yarn
 ```
 
+### Run vite server
+
+```bash
+yarn start
+```
